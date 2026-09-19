@@ -1,0 +1,6 @@
+{
+  "name": "MoneyWise – Financial Literacy for Youth",
+  "description": "Interactive financial literacy app for youth featuring budget tracking, savings goals, badge achievement system, daily money and life quotes, financial mind games, book summaries, and an AI money assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
